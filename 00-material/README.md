@@ -3,12 +3,12 @@
 
 ## Index
 - Introduction
-- Documentation
 - How PWA Works
 - Key Benefits of PWAs
 - Examples of PWAs
 - How to Create a PWA
 - Setup
+- Documentation
 
 </details>
 
@@ -22,19 +22,6 @@
 - PWAs are modern websites that work like apps, providing a better, faster, and more reliable experience.
 - They combine the best of both web and native mobile applications, offering offline support, push notifications, and fast loading times.
 - PWAs can be used on any device without the need for an app store.
-
-</details>
-
----
-
-<details>
-<summary>Documentation</summary>
-
-## Documentation
-
-- **PWA in Android App**: [Using a PWA in your Android app](https://web.dev/articles/using-a-pwa-in-your-android-app)
-- **How to turn an existing React project into a PWA**: [Making the existing React project a PWA](https://hnurn.medium.com/making-the-existing-react-project-a-pwa-and-android-app-a-simple-guide-9ebaa6ddb45e)
-- **How to Develop Progressive Web Apps (PWA)**: [Developing PWAs](https://medium.com/@rajeev.singh_63608/how-to-develop-progressive-web-apps-pwa-fad9a6a82f32)
 
 </details>
 
@@ -70,6 +57,7 @@
 
 ## Examples of PWAs
 - **Twitter Lite**: A lightweight version of Twitter, which works well on slower networks and offers offline capabilities.
+- **Flipkart Lite**: India’s e-commerce giant, Flipkart, uses a PWA to provide a seamless shopping experience even on low-bandwidth networks.
 - **Pinterest**: A PWA version of Pinterest, providing a fast and reliable experience on both mobile and desktop.
 
 </details>
@@ -113,9 +101,22 @@ For more details on creating a PWA, refer to the following resources:
 - `npx create-react-app my-app --template cra-template-pwa`
 
 ### Custom Setup
-1. Setup Template : `npx create-react-app myapp`
+1. React Template : `npx create-react-app myapp`
 
 
+
+</details>
+
+---
+
+<details>
+<summary>Documentation</summary>
+
+## Documentation
+
+- **PWA in Android App**: [Using a PWA in your Android app](https://web.dev/articles/using-a-pwa-in-your-android-app)
+- **How to turn an existing React project into a PWA**: [Making the existing React project a PWA](https://hnurn.medium.com/making-the-existing-react-project-a-pwa-and-android-app-a-simple-guide-9ebaa6ddb45e)
+- **How to Develop Progressive Web Apps (PWA)**: [Developing PWAs](https://medium.com/@rajeev.singh_63608/how-to-develop-progressive-web-apps-pwa-fad9a6a82f32)
 
 </details>
 
